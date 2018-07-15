@@ -1,0 +1,16 @@
+PODS:
+  - LTSecondPublicPod (0.1.0)
+
+DEPENDENCIES:
+  - LTSecondPublicPod (from `../`)
+
+EXTERNAL SOURCES:
+  LTSecondPublicPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LTSecondPublicPod: 3abe34bf462358d4db9d71dcfefe75bd1b98f2a3
+
+PODFILE CHECKSUM: d39f89166220df33a43a593cd206bdf80a3eba9f
+
+COCOAPODS: 1.5.3

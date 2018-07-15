@@ -1,0 +1,6 @@
+framework module Pods_LTSecondPublicPod_Example {
+  umbrella header "Pods-LTSecondPublicPod_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

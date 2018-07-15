@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LTSecondPublicPod_Example' do
+  pod 'LTSecondPublicPod', :path => '../'
+
+  target 'LTSecondPublicPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

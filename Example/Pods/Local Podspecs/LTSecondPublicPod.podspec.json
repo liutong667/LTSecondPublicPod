@@ -1,0 +1,22 @@
+{
+  "name": "LTSecondPublicPod",
+  "version": "0.1.0",
+  "summary": "A short description of LTSecondPublicPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liutong667/LTSecondPublicPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liutong667": "liutong667@foxmail.com"
+  },
+  "source": {
+    "git": "https://github.com/liutong667/LTSecondPublicPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LTSecondPublicPod/Classes/**/*"
+}

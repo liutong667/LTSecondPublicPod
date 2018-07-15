@@ -1,0 +1,6 @@
+framework module LTSecondPublicPod {
+  umbrella header "LTSecondPublicPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
